@@ -8,3 +8,4 @@ pyspark
 wordcloud
 snowflake-connector-python
 geopandas
+folium
