@@ -9,3 +9,4 @@ wordcloud
 snowflake-connector-python
 geopandas
 folium
+pmdarima
