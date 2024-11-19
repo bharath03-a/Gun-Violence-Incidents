@@ -10,3 +10,4 @@ snowflake-connector-python
 geopandas
 folium
 pmdarima
+fbprophet
