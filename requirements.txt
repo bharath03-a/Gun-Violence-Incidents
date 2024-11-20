@@ -11,3 +11,4 @@ geopandas
 folium
 pmdarima
 prophet
+tensorflow
