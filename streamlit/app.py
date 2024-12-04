@@ -67,14 +67,6 @@ elif forecast_type == "Weekly":
 #     last_sequence = np.zeros((ts, 1))
 #     st.components.v1.html(open("./images/lstm_daily_forecast.html", "r").read(), height=400, width=850)
 
-st.markdown(
-    """
-    ---
-    Visit the [GitHub Repo](https://github.com/bharath03-a/Gun-Violence-Incidents) for more details.
-    """,
-    unsafe_allow_html=True,
-)
-
 def predict_future(model, scaler, last_sequence, future_steps, ts):
     future_predictions = []
     for _ in range(future_steps):
@@ -119,3 +111,11 @@ if st.sidebar.button("Predict"):
         file_name=f"{forecast_type}_predictions.csv",
         mime="text/csv",
     )
+
+st.markdown(
+    """
+    ---
+    Visit the [GitHub Repo](https://github.com/bharath03-a/Gun-Violence-Incidents) for more details.
+    """,
+    unsafe_allow_html=True,
+)
