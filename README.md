@@ -1,7 +1,9 @@
 # Gun Violence Incident Analysis
 
 <p align="center">
-    <img src="https://www.gunviolencearchive.org/sites/default/files/logo.png" alt="Gun Violence Archive" width="50%">
+    <img src="https://www.gunviolencearchive.org/assets/images/gva-logo.png" alt="Gun Violence Archive Logo" height="120">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark Logo" height="120">
 </p>
 
 ## Overview
