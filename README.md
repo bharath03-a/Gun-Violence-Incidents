@@ -85,7 +85,7 @@ The dataset, sourced from the Gun Violence Archive (GVA), includes detailed reco
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/bharath03-a/Gun-Violence-Incidents)
    ```
 
 3. Explore the notebooks for step-by-step analysis:
